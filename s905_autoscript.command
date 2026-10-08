@@ -167,6 +167,13 @@ setenv reboot_mode_android
 setenv update_sdcard
 setenv update_udisk
 setenv Model
+setenv arch
+setenv board
+setenv board_name
+setenv cpu
+setenv soc
+setenv vendor
+setenv loadaddr_kernel
 
 saveenv
 
